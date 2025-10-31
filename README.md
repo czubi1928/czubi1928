@@ -6,7 +6,7 @@ This profile highlights my database expertise and showcases my new data engineer
 
 # 👋 Hi, I'm Patryk Czubinski
 
-### 🚀 Data Fanatic | PostgreSQL Database Administrator | SQL Programmer
+## 🚀 Data Fanatic | PostgreSQL Database Administrator | SQL Programmer
 
 I'm a database professional passionate about building robust, scalable data systems. My background in database
 administration and SQL development provides a strong foundation for my transition into the world of **Data Engineering
