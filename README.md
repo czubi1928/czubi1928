@@ -9,8 +9,8 @@ This profile highlights my database expertise and showcases my new data engineer
 ## 🚀 Data Fanatic | PostgreSQL Database Administrator | SQL Programmer
 
 I'm a database professional passionate about building robust, scalable data systems. My background in database
-administration and SQL development provides a strong foundation for my transition into the world of **Data Engineering
-**.
+administration and SQL development provides a strong foundation for my transition into the world of 
+**Data Engineering**.
 
 💬 **Languages:** English / Polski
 
@@ -29,12 +29,12 @@ and **data pipelines**.
 **Key Achievements:**
 
 - Implemented a NoSQL Apache Cassandra database, **increasing system throughput by 428%** compared to the previous
-  solution (from 6,014 [PostgreSQL] to over 31,748 [Apache Cassandra] records per second).
+  solution (from 6,014 [PostgreSQL] to over 31,748 [Apache Cassandra] records per second)
 - Automated the generation of database performance and security reports using pgBadger, leading to faster issue
-  identification and resolution.
-- Modified the AUTOVACUUM policy in PostgreSQL, resulting in a **10% increase in data writing speed**.
+  identification and resolution
+- Modified the AUTOVACUUM policy in PostgreSQL, resulting in a **10% increase in data writing speed**
 - Developed a Python program for archive processing that **reduced data restoration time from hours of manual work to
-  near-instantaneous**.
+  near-instantaneous**
 
 **Core Competencies:**
 
@@ -72,11 +72,11 @@ unstructured data, reflecting skills in data engineering, analytics, and text pr
 ### #️⃣ Other Noteworthy Projects
 
 - **[Data Modeling With Postgres](https://github.com/czubi1928/data_modeling_with_postgres)** - Designed and implemented
-  a star schema database for a music streaming startup.
+  a star schema database for a music streaming startup
 - **[Data Modeling With Cassandra](https://github.com/czubi1928/data_modeling_with_cassandra)** - Built a NoSQL data
-  model on Apache Cassandra to handle high-throughput event data.
+  model on Apache Cassandra to handle high-throughput event data
 - **[DE Airflow Tutorial](https://github.com/czubi1928/de_airflow_tutorial)** - A practical guide and project
-  demonstrating core concepts of ETL orchestration with Airflow.
+  demonstrating core concepts of ETL orchestration with Airflow
 
 ---
 
@@ -118,17 +118,18 @@ unstructured data, reflecting skills in data engineering, analytics, and text pr
 
 ## 🎯 My Next Steps
 
-- 🧱 Build **more projects** to gain **hands-on experience** with large-scale and real-time data.
-- ⚙️ Master technologies like **Spark**, **Kafka**, **Terraform**, and **CI/CD** through practical application.
-- ☁️ Gain deeper expertise with **Python**, **AWS cloud services**, **advanced data modeling (Kimball, Inmon)**, and *
-  *data lake architectures**.
-- 📘 Earn certifications such as **AWS Certified Data Engineer** and **Databricks Certified Data Engineer**.
+- 🧱 Build **more projects** to gain **hands-on experience** with large-scale and real-time data
+- ⚙️ Master technologies like **Spark**, **Kafka**, **Terraform**, and **CI/CD** through practical application
+- ☁️ Gain deeper expertise with **Python**, **AWS cloud services**, **advanced data modeling (Kimball, Inmon)**, and 
+  **data lake architectures**
+- 📘 Earn certifications such as **AWS Certified Data Engineer** and **Databricks Certified Data Engineer**
 
 ---
 
 ## 🏅 Certifications & Credentials
 
-- **[DeepLearning.AI Data Engineering](https://coursera.org/share/a7bfee985ac679659955f1c63be96c77)** - *Specialization Certificate*
+- **[DeepLearning.AI Data Engineering](https://coursera.org/share/a7bfee985ac679659955f1c63be96c77)** - *Specialization
+  Certificate*
 - **[Prompt Design in Vertex AI Skill Badge](https://www.credly.com/badges/25d87922-1fe8-40d4-806d-0796f0ef0b86/linked_in_profile)** - *Google Cloud*
 
 ---
