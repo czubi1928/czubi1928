@@ -4,44 +4,32 @@ My goal is to transition from my current role as a DBA/SQL Programmer into a Dat
 This profile highlights my database expertise and showcases my new data engineering projects and skills.
 -->
 
-# 👋 Hi, I'm Patryk Czubinski
+# 👋 Hi, I'm Patrick Czubinski
 
-## 🚀 Data Fanatic | PostgreSQL Database Administrator | SQL Programmer
+## 👨‍💻 Database Administrator | SQL Developer | Aspiring Data Engineer
 
-I'm a database professional passionate about building robust, scalable data systems. My background in database
-administration and SQL development provides a strong foundation for my transition into the world of 
-**Data Engineering**.
+I'm a data-focused engineer who builds reliable, scalable data systems. I started my career as a junior data programmer
+and evolved into a PostgreSQL Database Administrator and SQL Developer. Today I'm transitioning to Data Engineering —
+designing data pipelines, orchestration, and end-to-end data platforms while keeping reliability and performance first.
 
+📍 **Location:** Warsaw, Poland
 💬 **Languages:** English / Polski
 
 ---
 
-## 👨‍💻 About Me
+## ⭐ Key Achievements & Core Competencies
 
-As a passionate **SQL Programmer** and **PostgreSQL Database Administrator** based in Warsaw, Poland, I have been
-dedicated to optimizing and securing data operations since 2022. My career began as a Junior Data Programmer, where I
-honed my skills in database management and performance optimization. I now specialize in ensuring the reliability and
-performance of PostgreSQL databases through thorough optimization and robust security.
+- Implemented an Apache Cassandra solution that increased system throughput by **~428%** (from ~6,014 r/s to ~31,748
+  r/s) compared to the prior PostgreSQL-based approach
+- Automated database log reporting with **pgBadger**, improving time-to-detect and time-to-fix incidents
+- Tuned PostgreSQL autovacuum policy, raising data-write throughput by **~10%**
+- Built a Python-based archive processing tool that reduced manual data restoration time from hours to near-instant for
+  client requests
 
-Currently, I’m expanding my skills toward **Data Engineering**, aiming to bridge the gap between **database management**
-and **data pipelines**.
-
-**Key Achievements:**
-
-- Implemented a NoSQL Apache Cassandra database, **increasing system throughput by 428%** compared to the previous
-  solution (from 6,014 [PostgreSQL] to over 31,748 [Apache Cassandra] records per second)
-- Automated the generation of database performance and security reports using pgBadger, leading to faster issue
-  identification and resolution
-- Modified the AUTOVACUUM policy in PostgreSQL, resulting in a **10% increase in data writing speed**
-- Developed a Python program for archive processing that **reduced data restoration time from hours of manual work to
-  near-instantaneous**
-
-**Core Competencies:**
-
-* **Database Management:** PostgreSQL Admin, NoSQL (Cassandra), Performance Tuning, Security, Data Modeling
-* **Data Programming & Automation:** Advanced SQL, Python (Pandas), Bash Scripting, ETL/ELT Logic
-* **Infrastructure & Operations:** Monitoring (Prometheus, Grafana), Performance Testing, Configuration Management
-* **Data Engineering Concepts:** Data Pipelines, System Architecture, Data Archiving & Restoration
+- **Database Management:** PostgreSQL Admin, NoSQL (Cassandra), Performance Tuning, Security, Data Modeling
+- **Data Programming & Automation:** Advanced SQL, Python (Pandas), Bash Scripting, ETL/ELT Logic
+- **Infrastructure & Operations:** Monitoring (Prometheus, Grafana), Performance Testing, Configuration Management
+- **Data Engineering Concepts:** Data Pipelines, System Architecture, Data Archiving & Restoration
 
 ---
 
@@ -79,8 +67,10 @@ unstructured data, reflecting skills in data engineering, analytics, and text pr
   demonstrating core concepts of ETL orchestration with Airflow
 - **[Data engineering project: data extraction to analysis](https://github.com/czubi1928/de_online_store)** - End-to-end
   data engineering project simulating data extraction, transformation, loading, and analysis for an online store
-- **[Apache Superset Tutorial](https://github.com/czubi1928/superset_tutorial)** - This repository contains a 
+- **[Apache Superset Tutorial](https://github.com/czubi1928/superset_tutorial)** - This repository contains a
   lightweight Docker-based setup for running Apache Superset — a modern data exploration and visualization platform
+
+> See my repositories for readmes, architecture diagrams, and runnable demos
 
 ---
 
@@ -124,7 +114,7 @@ unstructured data, reflecting skills in data engineering, analytics, and text pr
 
 - 🧱 Build **more projects** to gain **hands-on experience** with large-scale and real-time data
 - ⚙️ Master technologies like **Spark**, **Kafka**, **Terraform**, and **CI/CD** through practical application
-- ☁️ Gain deeper expertise with **Python**, **AWS cloud services**, **advanced data modeling (Kimball, Inmon)**, and 
+- ☁️ Gain deeper expertise with **Python**, **AWS cloud services**, **advanced data modeling (Kimball, Inmon)**, and
   **data lake architectures**
 - 📘 Earn certifications such as **AWS Certified Data Engineer** and **Databricks Certified Data Engineer**
 
