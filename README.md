@@ -77,6 +77,10 @@ unstructured data, reflecting skills in data engineering, analytics, and text pr
   model on Apache Cassandra to handle high-throughput event data
 - **[DE Airflow Tutorial](https://github.com/czubi1928/de_airflow_tutorial)** - A practical guide and project
   demonstrating core concepts of ETL orchestration with Airflow
+- **[Data engineering project: data extraction to analysis](https://github.com/czubi1928/de_online_store)** - End-to-end
+  data engineering project simulating data extraction, transformation, loading, and analysis for an online store
+- **[Apache Superset Tutorial](https://github.com/czubi1928/superset_tutorial)** - This repository contains a 
+  lightweight Docker-based setup for running Apache Superset — a modern data exploration and visualization platform
 
 ---
 
