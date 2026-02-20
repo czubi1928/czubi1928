@@ -35,7 +35,19 @@ designing data pipelines, orchestration, and end-to-end data platforms while kee
 
 ## 🏗️ Featured Projects
 
-### 1️⃣ [🎵 Million Song - Data Engineering Project](https://github.com/czubi1928/million_song_project)
+### 1️⃣ [final touch...] [🪙 Bitcoin Monitor - Data Engineering Project](https://github.com/czubi1928/bitcoin_monitor)
+
+A Bitcoin price **monitoring tool** that **ingests** price data from the CoinCap API, **processes** and **models** it,
+and exposes **interactive dashboards** for trend analysis and alerting. The project demonstrates building a
+**production-ready data pipeline** with **infrastructure-as-code**, **orchestration** and **cloud data warehousing**.
+
+**Tech Stack**: `Python 3` • `Pandas` • `Apache Airflow` • `dbt` • `Snowflake` • `Terraform` • `Docker` • `CoinCap API`
+
+**💡 Highlights:** ingestion and processing of Bitcoin prices, Airflow DAGs for orchestration, dbt models for
+transformations and testing, Terraform-managed infra and Snowflake as the analytics warehouse; designed for
+extensibility (alerting, CI/CD, dashboarding).
+
+### 2️⃣ [🎵 Million Song - Data Engineering Project](https://github.com/czubi1928/million_song_project)
 
 An **end-to-end data engineering project** built around the *Million Song Dataset*. It demonstrates a **modern data
 stack** for building scalable, testable, and automated data pipelines—from raw ingestion to analytics and visualization.
@@ -46,7 +58,7 @@ stack** for building scalable, testable, and automated data pipelines—from raw
 **💡 Highlights:** Showcases my ability to design and implement a **complete data platform**, covering ingestion,
 transformation, modeling, orchestration, and visualization with a focus on reliability and clean architecture.
 
-### 2️⃣ [📋 IT Job Market Analysis](https://github.com/czubi1928/analyzing_job_offers)
+### 3️⃣ [📋 IT Job Market Analysis](https://github.com/czubi1928/analyzing_job_offers)
 
 A data analytics project that **scrapes, processes, and visualizes IT job advertisements** to uncover trends in skills
 demand, salary ranges, and role distributions. It demonstrates turning raw, unstructured web data into actionable
@@ -124,7 +136,11 @@ unstructured data, reflecting skills in data engineering, analytics, and text pr
 
 - **[DeepLearning.AI Data Engineering](https://coursera.org/share/a7bfee985ac679659955f1c63be96c77)** - *Specialization
   Certificate*
-- **[Prompt Design in Vertex AI Skill Badge](https://www.credly.com/badges/25d87922-1fe8-40d4-806d-0796f0ef0b86/linked_in_profile)** - *Google Cloud*
+-
+    *
+
+*[Prompt Design in Vertex AI Skill Badge](https://www.credly.com/badges/25d87922-1fe8-40d4-806d-0796f0ef0b86/linked_in_profile)
+** - *Google Cloud*
 
 ---
 
