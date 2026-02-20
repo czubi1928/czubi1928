@@ -41,7 +41,8 @@ A Bitcoin price **monitoring tool** that **ingests** price data from the CoinCap
 and exposes **interactive dashboards** for trend analysis and alerting. The project demonstrates building a
 **production-ready data pipeline** with **infrastructure-as-code**, **orchestration** and **cloud data warehousing**.
 
-**Tech Stack**: `Python 3` • `Pandas` • `Apache Airflow` • `dbt` • `Snowflake` • `Terraform` • `Docker` • `CoinCap API`
+**Tech Stack**: `Python` • `Pandas` • `Apache Airflow` • `dbt` • `Snowflake` • `Terraform` • `Docker` • `CoinCap API` •
+`Apache Superset`
 
 **💡 Highlights:** ingestion and processing of Bitcoin prices, Airflow DAGs for orchestration, dbt models for
 transformations and testing, Terraform-managed infra and Snowflake as the analytics warehouse; designed for
