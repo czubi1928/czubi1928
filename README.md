@@ -136,5 +136,5 @@ A data analytics project that **scrapes, processes, and visualizes IT job advert
 ## 📫 Get in Touch
 
 - **Email:** [czubi1928@gmail.com](mailto:czubi1928@gmail.com)
-- **LinkedIn:** [linkedin.com/in/patryk-czubinski-1928-sql](https://linkedin.com/in/patryk-czubinski-1928-sql)
+- **LinkedIn:** [linkedin.com/in/patryk-czubinski](https://linkedin.com/in/patryk-czubinski)
 - **GitHub:** [github.com/czubi1928](https://github.com/czubi1928)
